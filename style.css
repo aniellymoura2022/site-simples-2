@@ -1,0 +1,24 @@
+.font-face{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: #484848;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 940px;
+    right: 0;
+}
+
+nav li{
+font-size: arial;
+display: inline;
+font-size: 20px;
+margin: 0 0 0 30px;
+color: rgb(213, 213,213)
+}
